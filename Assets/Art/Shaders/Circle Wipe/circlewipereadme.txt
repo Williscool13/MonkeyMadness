@@ -1,0 +1,1 @@
+In the UniversalRenderData of the current render pipeline, add fullscreen render pass and attach the circlwipematerial to it
