@@ -5,4 +5,4 @@ Play as a monkey and win out against another player! (local PvP)
 
 The game can be found on the GGJ website: https://globalgamejam.org/games/2024/monkey-business-1
 
-Alternatively you can play the web build at: -- link pending --
+Alternatively you can play the web build at: https://williscool13.itch.io/monkey-business
