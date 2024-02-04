@@ -9,7 +9,7 @@
                     "name": "LeftOne",
                     "type": "Value",
                     "id": "55bda0a4-9447-4243-8625-0e39c3a0c76c",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -18,7 +18,7 @@
                     "name": "MiddleOne",
                     "type": "Value",
                     "id": "c2111765-bc4b-41f9-9484-2fb1d70cf7e8",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -27,7 +27,7 @@
                     "name": "RightOne",
                     "type": "Value",
                     "id": "f540ecd9-c70d-4e73-8679-a997f385402e",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
